@@ -1,0 +1,14 @@
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\CandleStock.csproj.AssemblyReference.cache
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\CandleStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\CandleStock.Candlestock.resources
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\CandleStock.Chart.resources
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\CandleStock.DataSheet.resources
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\CandleStock.Properties.Resources.resources
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\FlatComboBox.resources
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\CandleStock.csproj.GenerateResource.cache
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\CandleStock.csproj.CoreCompileInputs.cache
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\bin\Release\CandleStock.exe.config
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\bin\Release\CandleStock.exe
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\bin\Release\CandleStock.pdb
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\CandleStock.exe
+C:\Users\mgmus\Desktop\School\IT OOP\CandleStock\obj\Release\CandleStock.pdb
